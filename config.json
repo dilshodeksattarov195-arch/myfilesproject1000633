@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyfync",
+        "uuid": 1853424,
+        "checksum": "wbk2f9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
